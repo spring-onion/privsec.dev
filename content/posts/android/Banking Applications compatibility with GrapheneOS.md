@@ -773,13 +773,11 @@ TEST: Test url again after removing the parameters and verify there is no mistak
 - [LANDBANK Mobile Banking](https://play.google.com/store/apps/details?id=com.landbank.mobilebanking) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/997)
 - [MariBank PH (SeaBank)](https://play.google.com/store/apps/details?id=ph.seabank.seabank) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/986)
 - [Maya – savings, loans, cards​](https://play.google.com/store/apps/details?id=com.paymaya) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/985)
-- ~~[Metrobank App](https://play.google.com/store/apps/details?id=ph.com.metrobank.mcc.mbonline)~~ - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/990)
-- [PNB Digital](https://play.google.com/store/apps/details?id=com.pnb.android) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/1094)
+- ~~[Metrobank App](https://play.google.com/store/apps/details?id=ph.com.metrobank.mcc.mbonline)~~ - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/990))
 - ~~[RCBCpulz](https://play.google.com/store/apps/details?id=com.rcbc.pulz)~~ - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/602)
 - [Security Bank App](https://play.google.com/store/apps/details?id=com.securitybank.bbx) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/598)
 - [Tonik Bank: Loans & Deposits](https://play.google.com/store/apps/details?id=com.tonik.mobile) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/1025)
 - [UnionBank Online](https://play.google.com/store/apps/details?id=com.unionbankph.online) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/984)
-- [UnionDigital Bank (UD)](https://play.google.com/store/apps/details?id=ph.uniondigital.superapp) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/1093)
 - [VYBE by BPI](https://play.google.com/store/apps/details?id=com.indivara.bpi) - [Report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/993)
 
 ### Poland
